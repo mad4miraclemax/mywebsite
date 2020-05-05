@@ -1,6 +1,2 @@
-<html>
-  <body>
-    <p><img src=asciiart1.png></p>
-    <!-- Wondering if my source code is working? -->
-  </body>
-</html>
+[](https://github.com/mad4miraclemax/mywebsite/asciiart1.png)
+<!-- Wondering if my source code is working? -->
