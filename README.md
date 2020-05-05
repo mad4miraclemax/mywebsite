@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+... Mad4MiracleMax
 
-You can use the [editor on GitHub](https://github.com/mad4miraclemax/mywebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mad4miraclemax/mywebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`7MMM.     ,MMF'             `7MM            
+  MMMb    dPMM                 MM            
+  M YM   ,M MM   ,6"Yb.   ,M""bMM       ,AM  
+  M  Mb  M' MM  8)   MM ,AP    MM      AVMM  
+  M  YM.P'  MM   ,pm9MM 8MI    MM    ,W' MM  
+  M  `YM'   MM  8M   MM `Mb    MM  ,W'   MM  
+.JML. `'  .JMML.`Moo9^Yo.`Wbmd"MML.AmmmmmMMmm
+                                         MM  
+                                         MM 
+                  ,,                           ,,                                             
+`7MMM.     ,MMF'  db                         `7MM         `7MMM.     ,MMF'                    
+  MMMb    dPMM                                 MM           MMMb    dPMM                      
+  M YM   ,M MM  `7MM  `7Mb,od8 ,6"Yb.  ,p6"bo  MM  .gP"Ya   M YM   ,M MM   ,6"Yb.  `7M'   `MF'
+  M  Mb  M' MM    MM    MM' "'8)   MM 6M'  OO  MM ,M'   Yb  M  Mb  M' MM  8)   MM    `VA ,V'  
+  M  YM.P'  MM    MM    MM     ,pm9MM 8M       MM 8M""""""  M  YM.P'  MM   ,pm9MM      XMX    
+  M  `YM'   MM    MM    MM    8M   MM YM.    , MM YM.    ,  M  `YM'   MM  8M   MM    ,V' VA.  
+.JML. `'  .JMML..JMML..JMML.  `Moo9^Yo.YMbmd'.JMML.`Mbmmd'.JML. `'  .JMML.`Moo9^Yo..AM.   .MA.
